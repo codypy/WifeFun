@@ -7,3 +7,6 @@ if x == (""):
 
 else:
     print('Im glad you love me that much, but i will always love you more!')
+
+
+# fun stuff
